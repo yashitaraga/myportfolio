@@ -1,4 +1,18 @@
 # myportfolio
+## 🎓 Education
+
+**Indiana University**, Indianapolis, IN, USA  
+*Master of Science in Medical Informatics*  
+📅 *Expected Graduation: April 2025*  
+📈 GPA: 3.70 / 4.00 (Currently in 4th semester)
+
+---
+
+**Southern Institute of Medical Sciences**, Guntur, AP, India  
+*Doctor of Pharmacy (PharmD)*  
+📅 *Graduated: August 2022*  
+📈 GPA: 3.60 / 4.00
+
 ## 💼 Work Experience
 
 **IU School of Medicine**, Indianapolis, IN  
