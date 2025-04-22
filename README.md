@@ -63,7 +63,7 @@
 ## 📚 Academic Projects
 
 **FHIR-Based ETL Pipeline for Healthcare Interoperability**  
-*Team Project | Indiana University | [View Website](https://pages.github.iu.edu/vpentala/ETL-Project/)*  
+*Team Project | Indiana University | https://pages.github.iu.edu/vpentala/ETL-Project/*
 - Designed and implemented an ETL pipeline using Python to extract clinical data from FHIR-compliant APIs such as OpenEMR and SNOMED CT.  
 - Utilized OAuth 2.0 authentication for secure data extraction and integrated patient demographics, conditions, and observations into a Primary Care EHR system.  
 
