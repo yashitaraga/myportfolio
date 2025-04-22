@@ -24,7 +24,7 @@
 **Indiana University**, Indianapolis, IN  
 *Research Assistant*  
 📅 January 2024 – Present  
-- Contributed to research on doxepin-related adverse reactions by annotating patient clinical notes.  
+- Contributed to research on Psychotic drug-related adverse reactions by annotating patient clinical notes.  
 - Collaborated with team members to analyze clinical data and enhance patient care.
 
 **Randolph County Caring Community Partnership**, Moberly, MO  
